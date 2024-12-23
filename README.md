@@ -1,10 +1,10 @@
-# Web Application Template
+# Testing Practice
 
-Template repository to facilitate creation of new web apps.
+A repository to practice Jest and demonstrate various testing techniques in JavaScript.
 
 ## Description
 
-This is a template repository, aimed to easily start building web applications. It includes all necessary development packages and build options already configured.
+This repository contains examples and exercises to practice different testing methodologies using Jest.
 
 ## Technologies used:
 
